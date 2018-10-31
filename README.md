@@ -3,5 +3,7 @@
 This project was created for the submission of Project 1 of COMP30020 2017S2
 The implementation is stored in Proj1.hs and other files are mostly uncleaned output or test scripts
 
+Ensure the Glasgow Haskell Compiler is installed  ([GHC](https://www.haskell.org/ghc))
+
 Written by: Wei How Ng
 
